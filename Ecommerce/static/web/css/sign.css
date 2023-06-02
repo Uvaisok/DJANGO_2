@@ -1,0 +1,25 @@
+.hiii{
+    text-align: center;
+}
+.up1{
+    width: 310px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+input{
+    width: 300px;
+    height: 30px;
+}
+.login1{
+    border: none;
+    background: blue;
+    color: white;
+    width: 299px;
+}
+.sign{
+    color: blue;
+}
+.four{
+    text-align: center;
+}

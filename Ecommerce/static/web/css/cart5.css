@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.table .yci{
+    margin-left: 60px;
+}
+img{
+    width: 150px;
+}
+
+table{
+    margin: auto;
+}
+
+tr,th,td{
+    border: 2px solid white;
+    padding-left: 20px;
+    padding-right:20px ;
+    
+}
+th{
+    background-color: rgba(230, 203, 154, 0.651);
+    text-align: center;
+}
+
+.outcolor{
+    background-color: white;
+}
+td{
+    text-align: center;
+}
+
+
+.table h1{
+    font-size: 30px;
+    margin: 20px;
+    padding-left: 270px;
+    color: #000000;
+    font-weight: 900;
+}
+.jut{
+    text-align: end;
+    background-color: rgba(230, 203, 154, 0.651);
+}
+.startt{
+    background-color: rgba(230, 203, 154, 0.651);  
+}
+.uu{
+    background-color: rgba(230, 203, 154, 0.651);
+    width: 50px;
+}
+.ccl{
+    background-color: rgba(230, 203, 154, 0.651);
+}
+.jut .startt{
+    text-align: start;
+    
+}
+.jut td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: 900;
+}
+th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+}
+td{
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(230, 203, 154, 0.651);
+    margin: auto;
+    margin-top: 100px;
+}
+.cartbox{
+    padding: 20px;
+}
+
+
+.cartbox p{
+    padding-top: 20px;
+}
+.cartbox h1{
+    padding-top: 20px;
+}
+.ptc{
+    margin-top: 20px;
+    width: 330px;
+    height: 50px;
+    background-color:blue;
+    color:white;
+    border-radius: 3px;
+    font-size: 15px;
+    padding: 5px;
+    border: none;
+}
+.right{
+    display: flex;
+    gap: 191px;
+    margin-top: 20px;
+}
+.pt{
+    margin-top: 25px;
+}
+.rightz{
+    display: flex;
+    gap: 235px;
+    margin-top: 10px;
+}
+.right1{
+    display: flex;
+    gap: 274px;
+}
+.right2{
+    display: flex;
+    gap: 202px;
+    margin-top: 50px;
+}
+.grand{
+    color: blue;
+}
+.grandpaisa{
+    color: blue;
+    margin-top: 4px;
+}
+.fourzero{
+    margin-top: 22px;
+}
+
+@media (max-width:809px){
+    .box{
+        margin-left: 210px;
+    }
+}
+@media (max-width:557px){
+    .table .yci{
+       font-size: 30px;
+       width: 100%;
+    }
+}
+@media (max-width:477px){
+    .table .yci{
+       font-size: 30px;
+       width: 500px;
+    }
+}
+
+
+
+.empty{
+    margin-top: 200px;
+}
+.shop{
+    background: blue;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.shop:hover{
+    background: #000000;
+}
+.yourcart{
+    text-align: center;
+    padding: 30px;
+}
+.footer{
+    margin-top: 200px;
+}
+
+

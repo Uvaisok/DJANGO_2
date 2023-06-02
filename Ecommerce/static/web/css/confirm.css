@@ -1,0 +1,20 @@
+.thnx{
+    width: 10%;
+}
+
+.lastconfsh{
+    border: none;
+    width: 10rem;
+    height: 2rem;
+    color: white;
+    background: blue;
+    border-radius: 3px;
+}
+
+.greentc, .thnx{
+   text-align: center;
+}
+
+.greentcp{
+    text-align: center;
+}
