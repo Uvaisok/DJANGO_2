@@ -15,6 +15,25 @@ def index(request):
     }
     return render(request,"web/index.html" , context)
 
+def about(request):
+    return render(request,"web/about.html")
+def blog(request):
+    return render(request,"web/blog.html")
+def contact(request):
+    return render(request,"web/contact.html")
+def detail(request):
+    return render(request,"web/detail.html")
+def price(request):
+    return render(request,"web/price.html")
+def product(request):
+    return render(request,"web/product.html")
+def service(request):
+    return render(request,"web/service.html")
+def team(request):
+    return render(request,"web/team.html")
+def testimonial(request):
+    return render(request,"web/testimonial.html")
+
 
 
 
